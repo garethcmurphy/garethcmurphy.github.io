@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Jan 2016 21:35:04 +0100</pubDate>
-    <lastBuildDate>Thu, 28 Jan 2016 21:35:04 +0100</lastBuildDate>
+    <pubDate>Thu, 28 Jan 2016 21:47:20 +0100</pubDate>
+    <lastBuildDate>Thu, 28 Jan 2016 21:47:20 +0100</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -16,7 +16,7 @@
 Written during 2005-2007 and full of messy expressions and strange variable names …&lt;/p&gt;
 
 &lt;p&gt;Available now at this link 
-&lt;a href=&quot;http://github.com/mpi-mhd-fv&quot;&gt;mpi-mhd-fv&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://github.com/garethcmurphy/mpi-mhd-fv&quot;&gt;mpi-mhd-fv&lt;/a&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c--&quot; data-lang=&quot;c++&quot;&gt;  &lt;span class=&quot;n&quot;&gt;a_star2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;csound2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bsquared&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
   &lt;span class=&quot;n&quot;&gt;term&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sqrt&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a_star2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a_star2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;csound2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;calfven2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;

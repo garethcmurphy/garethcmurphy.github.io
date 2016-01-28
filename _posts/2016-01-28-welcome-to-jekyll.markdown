@@ -10,7 +10,7 @@ Posted 2nd order  finite volume MHD code.
 Written during 2005-2007 and full of messy expressions and strange variable names ...
 
 Available now at this link 
-[mpi-mhd-fv](http://github.com/mpi-mhd-fv)
+[mpi-mhd-fv](https://github.com/garethcmurphy/mpi-mhd-fv)
 
 {% highlight c++ %}
   a_star2 = (csound2 + bsquared);

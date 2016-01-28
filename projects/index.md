@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 
-### [MPI-MHD-FV](https://github.com/garethcmurphy/mph-mhd-fv)
+### [MPI-MHD-FV](https://github.com/garethcmurphy/mpi-mhd-fv)
 
 MHD code to simulate jets and supernovae
 

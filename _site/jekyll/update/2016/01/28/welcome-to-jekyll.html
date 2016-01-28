@@ -6,8 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Welcome to my code website</title>
-  <meta name="description" content="Jekyll also offers powerful support for code snippets:">
+  <title>Posted mpi-mhd-fv code</title>
+  <meta name="description" content="Posted 2nd order  finite volume MHD code.Written during 2005-2007 and full of messy expressions and strange variable names …">
 
   <link rel="stylesheet" href="/css/main.css">
   <link rel="canonical" href="http://yourdomain.com/jekyll/update/2016/01/28/welcome-to-jekyll.html">
@@ -65,20 +65,31 @@
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">Welcome to my code website</h1>
+    <h1 class="post-title" itemprop="name headline">Posted mpi-mhd-fv code</h1>
     <p class="post-meta"><time datetime="2016-01-28T14:20:58+01:00" itemprop="datePublished">Jan 28, 2016</time></p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    <p>Jekyll also offers powerful support for code snippets:</p>
+    <p>Posted 2nd order  finite volume MHD code.
+Written during 2005-2007 and full of messy expressions and strange variable names …</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<p>Available now at this link 
+<a href="http://github.com/mpi-mhd-fv">mpi-mhd-fv</a></p>
 
-<p>Check out the <a href="http://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
+<figure class="highlight"><pre><code class="language-c--" data-lang="c++">  <span class="n">a_star2</span> <span class="o">=</span> <span class="p">(</span><span class="n">csound2</span> <span class="o">+</span> <span class="n">bsquared</span><span class="p">);</span>
+  <span class="n">term</span> <span class="o">=</span> <span class="n">sqrt</span> <span class="p">(</span><span class="n">a_star2</span> <span class="o">*</span> <span class="n">a_star2</span> <span class="o">-</span> <span class="mi">4</span> <span class="o">*</span> <span class="n">csound2</span> <span class="o">*</span> <span class="n">calfven2</span><span class="p">);</span>
+  <span class="n">cslow2</span> <span class="o">=</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="p">(</span><span class="n">a_star2</span> <span class="o">-</span> <span class="n">term</span><span class="p">);</span>
+  <span class="n">cfast2</span> <span class="o">=</span> <span class="mf">0.5</span> <span class="o">*</span> <span class="p">(</span><span class="n">a_star2</span> <span class="o">+</span> <span class="n">term</span><span class="p">);</span>
+  <span class="n">cslow</span> <span class="o">=</span> <span class="n">sqrt</span> <span class="p">(</span><span class="n">cslow2</span><span class="p">);</span>
+  <span class="n">cfast</span> <span class="o">=</span> <span class="n">sqrt</span> <span class="p">(</span><span class="n">cfast2</span><span class="p">);</span>
+  <span class="n">eigenval</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="n">u</span> <span class="o">-</span> <span class="n">cfast</span><span class="p">;</span>
+  <span class="n">eigenval</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">=</span> <span class="n">u</span> <span class="o">-</span> <span class="n">calfven</span><span class="p">;</span>
+  <span class="n">eigenval</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span> <span class="o">=</span> <span class="n">u</span> <span class="o">-</span> <span class="n">cslow</span><span class="p">;</span>
+  <span class="n">eigenval</span><span class="p">[</span><span class="mi">3</span><span class="p">]</span> <span class="o">=</span> <span class="n">u</span><span class="p">;</span>
+  <span class="n">eigenval</span><span class="p">[</span><span class="mi">4</span><span class="p">]</span> <span class="o">=</span> <span class="n">u</span> <span class="o">+</span> <span class="n">cslow</span><span class="p">;</span>
+  <span class="n">eigenval</span><span class="p">[</span><span class="mi">5</span><span class="p">]</span> <span class="o">=</span> <span class="n">u</span> <span class="o">+</span> <span class="n">calfven</span><span class="p">;</span>
+  <span class="n">eigenval</span><span class="p">[</span><span class="mi">6</span><span class="p">]</span> <span class="o">=</span> <span class="n">u</span> <span class="o">+</span> <span class="n">cfast</span><span class="p">;</span>
+  <span class="k">return</span> <span class="mi">0</span><span class="p">;</span></code></pre></figure>
 
 
   </div>

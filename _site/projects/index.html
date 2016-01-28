@@ -72,9 +72,13 @@
   <div class="post-content">
     <h3 id="mpi-mhd-fvhttpsgithubcomgarethcmurphympi-mhd-fv"><a href="https://github.com/garethcmurphy/mpi-mhd-fv">MPI-MHD-FV</a></h3>
 
-<p>MHD code to simulate jets and supernovae
-2nd order finite volume MHD code. Written during 2005-2007.
-Depends on MPI, HDF5 and uses Template Numerical Toolkit for data management.</p>
+<p>MHD code to simulate jets and supernovae.
+This project is an old MHD code, written originally to simulate jets and outflows.
+Updated to use 64-bit addresses for pointers.
+It depends on <a href="https://www.hdfgroup.org">HDF5</a> for data storage, which is compatible with many visualisation tools (Matlab, IDL etc).
+<a href="http://www.mpi-forum.org">MPI</a> is used to communicate between processors.
+The numerical method used is a second-order Godunov, shock capturing, finite volume scheme with an adiabatic equation of state.
+The Riemann problem is solved to calculate the flux of mass, momentum and energy at cell interfaces. Roe, HLLD, or Lax-Friedrichs approximate Riemann solvers are all implemented.</p>
 
 <h3 id="fpga-filtershttpsgithubcomgarethcmurphyfpga-filters"><a href="https://github.com/garethcmurphy/fpga-filters">FPGA-filters</a></h3>
 

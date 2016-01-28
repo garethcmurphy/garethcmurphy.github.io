@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Posted Python viz scripts"
+date:   2016-01-26 14:20:58 +0100
+categories: python update
+---
+
+Posted Python viz scripts

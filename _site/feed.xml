@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Jan 2016 22:59:02 +0100</pubDate>
-    <lastBuildDate>Thu, 28 Jan 2016 22:59:02 +0100</lastBuildDate>
+    <pubDate>Thu, 28 Jan 2016 23:09:47 +0100</pubDate>
+    <lastBuildDate>Thu, 28 Jan 2016 23:09:47 +0100</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -42,6 +42,38 @@ The Riemann problem is solved to calculate the flux of mass, momentum and energy
         <pubDate>Thu, 28 Jan 2016 14:20:58 +0100</pubDate>
         <link>http://yourdomain.com/jekyll/update/2016/01/28/mpi-mhd-fv.html</link>
         <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/01/28/mpi-mhd-fv.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Posted Python viz scripts</title>
+        <description>&lt;p&gt;Posted Python viz scripts&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Jan 2016 14:20:58 +0100</pubDate>
+        <link>http://yourdomain.com/python/update/2016/01/26/pyviz.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/python/update/2016/01/26/pyviz.html</guid>
+        
+        
+        <category>python</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Added Verilog code for filtering on FPGAs</title>
+        <description>&lt;p&gt;Field programmable gate arrays are a cheaper alternative to custom integrated circuits, and this project shows how to implement simple digital filters on Xilinx chip using Verilog.
+Both finite impulse reponse and infinite impulse response filters are included.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 25 Jan 2016 22:20:58 +0100</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2016/01/25/fpga-filters.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/01/25/fpga-filters.html</guid>
         
         
         <category>jekyll</category>

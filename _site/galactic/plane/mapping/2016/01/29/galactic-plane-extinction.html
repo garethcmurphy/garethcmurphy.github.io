@@ -6,12 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Projects</title>
-  <meta name="description" content="I am a postdoctoral researcher at the Niels Bohr International Academy, University of Copenhagen, Denmark, working on simulations of jets and outflows.
-">
+  <title>Mapping the galactic plane</title>
+  <meta name="description" content="C++ code to map dust extinction in the Galactic Plane, using the Wolf star count method, and 2MASS catalogue data.">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://yourdomain.com/projects/">
+  <link rel="canonical" href="http://yourdomain.com/galactic/plane/mapping/2016/01/29/galactic-plane-extinction.html">
   <link rel="alternate" type="application/rss+xml" title="Gareth Murphy" href="http://yourdomain.com/feed.xml">
 </head>
 
@@ -63,36 +62,18 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <article class="post">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title">Projects</h1>
+    <h1 class="post-title" itemprop="name headline">Mapping the galactic plane</h1>
+    <p class="post-meta"><time datetime="2016-01-29T14:20:58+01:00" itemprop="datePublished">Jan 29, 2016</time></p>
   </header>
 
-  <div class="post-content">
-    <h3 id="mapping-dust-extinction-in-the-galactic-planehttpsgithubcomgarethcmurphygalactic-plane-map"><a href="https://github.com/garethcmurphy/galactic-plane-map">Mapping dust extinction in the galactic plane</a></h3>
+  <div class="post-content" itemprop="articleBody">
+    <p>C++ code to map dust extinction in the Galactic Plane, using the Wolf star count method, and 2MASS catalogue data.</p>
 
-<p>C++ code to map dust extinction in the Galactic Plane, using the Wolf star count method, and 2MASS catalogue data.</p>
+<p><a href="https://github.com/garethcmurphy/galactic-plane-map">Mapping dust extinction in the galactic plane</a></p>
 
-<h3 id="mpi-mhd-fvhttpsgithubcomgarethcmurphympi-mhd-fv"><a href="https://github.com/garethcmurphy/mpi-mhd-fv">MPI-MHD-FV</a></h3>
-
-<p>MHD code to simulate jets and supernovae.
-This project is an old MHD code, written originally to simulate jets and outflows.
-Updated to use 64-bit addresses for pointers.
-It depends on <a href="https://www.hdfgroup.org">HDF5</a> for data storage, which is compatible with many visualisation tools (Matlab, IDL etc).
-<a href="http://www.mpi-forum.org">MPI</a> is used to communicate between processors.
-The numerical method used is a second-order Godunov, shock capturing, finite volume scheme with an adiabatic equation of state.
-The Riemann problem is solved to calculate the flux of mass, momentum and energy at cell interfaces. Roe, HLLD, or Lax-Friedrichs approximate Riemann solvers are all implemented.</p>
-
-<h3 id="fpga-filtershttpsgithubcomgarethcmurphyfpga-filters"><a href="https://github.com/garethcmurphy/fpga-filters">FPGA-filters</a></h3>
-
-<p>A common design problem in digital signal processing is electronic noise in speech signals. The hardware for a basic noise filter for speech can be most conveniently implemented on a field programmable gate array (FPGA). Such a device allows the user to simulate a hardware design in real time: to test, alter and debug it in the space of a few hours without the cost associated with silicon microchip manufacture.
-	The aim of the project was to develop various filters for noisy speech signals, and to investigate the trade-off between power consumption, performance and FPGA gate usage. Finite impulse response filters were developed in Matlab and implemented on the FPGA. 
-    The Verilog language describes the functionality of digital logic hardware. It is used for simulation of digital circuits and for realisation of digital circuits on FPGAs. The code provides a description of logic at behavioural level. This means for example, that an arithmetical function can be specified directly (e.g. multiplication, x = a * b) without the need for each actual gate to be specified by the user. The actual gates are produced as a netlist (the logic is “synthesised”) by the software. Not all Verilog constructs can be synthesised, either because they are impossible for a chip (e.g. displaying to screen), illegal (e.g. storing two values in the same register) or simply due to lack of space on the chip (e.g. a 20-bit 8-tap digital filter).</p>
-
-<h2 id="pyvizhttpsgithubcomgarethcmurphypyviz"><a href="https://github.com/garethcmurphy/pyviz">PyViz</a></h2>
-
-<p>A collection of python scripts to read simulation data from snoopy, pluto etc, into Visit Visualisation Tool and plot the vorticity, draw streamlines, magnetic field lines and plot anisotropy stress tensors.</p>
 
   </div>
 

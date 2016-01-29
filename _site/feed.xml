@@ -6,9 +6,29 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Jan 2016 10:48:33 +0100</pubDate>
-    <lastBuildDate>Fri, 29 Jan 2016 10:48:33 +0100</lastBuildDate>
+    <pubDate>Fri, 29 Jan 2016 14:51:10 +0100</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2016 14:51:10 +0100</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
+    
+      <item>
+        <title>Mapping the galactic plane</title>
+        <description>&lt;p&gt;C++ code to map dust extinction in the Galactic Plane, using the Wolf star count method, and 2MASS catalogue data.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/garethcmurphy/galactic-plane-map&quot;&gt;Mapping dust extinction in the galactic plane&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 29 Jan 2016 14:20:58 +0100</pubDate>
+        <link>http://yourdomain.com/galactic/plane/mapping/2016/01/29/galactic-plane-extinction.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/galactic/plane/mapping/2016/01/29/galactic-plane-extinction.html</guid>
+        
+        
+        <category>galactic</category>
+        
+        <category>plane</category>
+        
+        <category>mapping</category>
+        
+      </item>
     
       <item>
         <title>Magnetohydrodynamics code for jet simulations</title>

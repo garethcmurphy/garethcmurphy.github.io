@@ -4,6 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
+### [Mapping dust extinction in the galactic plane](https://github.com/garethcmurphy/galactic-plane-map)
+
+C++ code to map dust extinction in the Galactic Plane, using the Wolf star count method, and 2MASS catalogue data.
 
 ### [MPI-MHD-FV](https://github.com/garethcmurphy/mpi-mhd-fv)
 

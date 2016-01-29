@@ -9,7 +9,7 @@
 title: Gareth Murphy
 email: gmurphy@nbi.ku.dk
 description: > # this means to ignore newlines until "baseurl:"
-    I am a postdoctoral researcher at the Niels Bohr International Academy, University of Copenhagen, Denmark. Previously, I worked at the Dublin Institute for Advanced Studies, and the Institute de Planetologie et Astrophysique de Grenoble.  Jets of plasma underlie many of the most spectacular and energetic events in the Universe, such as radio quasars, supernova remnants, and gamma ray bursts. Understanding the physical processes driving the launching, exciting the variability, and maintaining the collimation of jets is the main focus of my research. Since we cannot reach astrophysical temperatures and densities in the laboratory, I use supercomputer simulations to probe the physics of jet launching systems. I am also interested in energetic collisionless shock waves in supernova remnants and gamma ray bursts.
+    I am a postdoctoral researcher at the Niels Bohr International Academy, University of Copenhagen, Denmark, working on simulations of jets and outflows.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: garethcmurphy

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gareth Murphy</title>
-    <description>I am a postdoc in the Niels Bohr Institute  working on jets and outflows
+    <description>I am a postdoctoral researcher at Niels Bohr International Academy, University of Copenhagen, Denmark. Previously, I was a postdoctoral researcher at Dublin Institute for Advanced Studies, and Institute de Planetologie et Astrophysique de Grenoble. I obtained my PhD at the Dublin Institute for Advanced Studies and Trinity College, Dublin.  Jets of plasma underlie many of the most spectacular and energetic events in the Universe, such as radio quasars, supernova remnants, and gamma ray bursts. Understanding the physical processes driving the launching, exciting the variability, and maintaining the collimation of jets is the main focus of my research. Since we cannot reach astrophysical temperatures and densities in the laboratory, I use supercomputer simulations to probe the physics of jet launching systems, and uncover how angular momentum is transported. I am also interested in energetic collisionless shock waves in supernova remnants and gamma ray bursts.
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Jan 2016 09:50:38 +0100</pubDate>
-    <lastBuildDate>Fri, 29 Jan 2016 09:50:38 +0100</lastBuildDate>
+    <pubDate>Fri, 29 Jan 2016 10:06:58 +0100</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2016 10:06:58 +0100</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -66,10 +66,12 @@ The Riemann problem is solved to calculate the flux of mass, momentum and energy
       </item>
     
       <item>
-        <title>Added Verilog code for filtering on FPGAs</title>
-        <description>&lt;p&gt;Field programmable gate arrays are a cheaper alternative to custom integrated circuits, and this project shows how to implement simple digital filters on Xilinx chip using Verilog.
-Both finite impulse reponse and infinite impulse response filters are included.&lt;/p&gt;
+        <title>A Verilog code for filtering on FPGAs</title>
+        <description>&lt;p&gt;A common design problem in digital signal processing is electronic noise in speech signals. The hardware for a basic noise filter for speech can be most conveniently implemented on a field programmable gate array (FPGA). Such a device allows the user to simulate a hardware design in real time: to test, alter and debug it in the space of a few hours without the cost associated with silicon microchip manufacture. The aim of the project was to develop various filters for noisy speech signals, and to investigate the trade-off between power consumption, performance and FPGA gate usage. Finite impulse response filters were developed in Matlab and implemented on the FPGA.&lt;/p&gt;
 
+&lt;p&gt;The Verilog language describes the functionality of digital logic hardware. It is used for simulation of digital circuits and for realisation of digital circuits on FPGAs. The code provides a description of logic at behavioural level. This means for example, that an arithmetical function can be specified directly (e.g. multiplication, x = a * b) without the need for each actual gate to be specified by the user. The actual gates are produced as a netlist (the logic is “synthesised”) by the software. Not all Verilog constructs can be synthesised, either because they are impossible for a chip (e.g. displaying to screen), illegal (e.g. storing two values in the same register) or simply due to lack of space on the chip (e.g. a 20-bit 8-tap digital filter).&lt;/p&gt;
+
+&lt;p&gt;git repository: &lt;a href=&quot;https://github.com/garethcmurphy/fpga-filters&quot;&gt;FPGA-filters&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 Jan 2016 22:20:58 +0100</pubDate>
         <link>http://yourdomain.com/jekyll/update/2016/01/25/fpga-filters.html</link>

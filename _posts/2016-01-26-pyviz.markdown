@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Posted Python viz scripts"
+title:  "Python visualisation scripts for simulation data"
 date:   2016-01-26 14:20:58 +0100
 categories: python update
 ---
 
-Posted Python viz scripts
+A collection of python scripts to read simulation data from snoopy, pluto etc, into Visit Visualisation Tool and plot the vorticity, draw streamlines, magnetic field lines and plot anisotropy stress tensors.

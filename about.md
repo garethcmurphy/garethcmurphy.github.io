@@ -10,4 +10,4 @@ I am a software developer at DTU Space, Denmark. Previously, I was a postdoctora
 
 
 My webpage at 
-[NBI](http://www.nbi.dk/~gmurphy)
+[DTU Space](http://www.dtu.dk/english/service/phonebook/person?id=113190&tab=2&qt=dtupublicationquery)

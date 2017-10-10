@@ -9,14 +9,14 @@ I am a software developer at ESS DMSC, Denmark. Previously, I was a software dev
 * Languages: Python, C/C++, Javascript, Java, PHP, Shell scripting, Fortran, Verilog, VHDL
 * Version Control Systems: Git, Mercurial, Subversion, CVS, SCCS
 * Automation/Build Tools: Docker, Fabric, Jenkins
-* Testing tools: Pytest, Mocha, CTest, Google Test, Travis-CI
-* App & Web Servers: Django, Apache, Nginx
+* Testing tools: Karma, Protractor, Pytest, Mocha, CTest, Google Test, Travis-CI
+* App & Web Servers: Angular, Django, Apache, Nginx
 * Parallelisation: MPI, OpenMP
-* Databases: PostgreSQL, MySQL, MongoDB
-* Virtualisation: VM Ware, Virtualbox, Docker, Amazon AWS/EC2
-* Platforms: Linux and UNIX, Solaris, Windows
+* Databases: MongoDB, PostgreSQL, MariaDB, MySQL
+* Virtualisation: Kubernetes, VM Ware, Virtualbox, Docker, Amazon AWS/EC2
+* Platforms: Linux and UNIX, Solaris, Windows, MacOS
 * Word Processing: Microsoft Word, TeX, Google Docs
-* Presentations: Microsoft PowerPoint, Keynote
+* Presentations: Microsoft PowerPoint, Keynote, GitPitch
 
 
 My webpage at 

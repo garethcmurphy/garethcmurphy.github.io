@@ -9,8 +9,8 @@ categories: jekyll update
 
 
 Adding synthetic data to catamel via Typescript.
-Synthetic data allows users to create a realistic test environment for a data processor.
-TypeScript is a strongly-typed superset of JavaScript.
+[Synthetic data](https://en.wikipedia.org/wiki/Synthetic_data) allows users to create a realistic test environment for a data processor.
+[TypeScript](https://www.typescriptlang.org/) is a strongly-typed superset of JavaScript.
 
 
 git repository: [CatanieDataLoad](https://github.com/garethcmurphy/CatanieDataLoad)

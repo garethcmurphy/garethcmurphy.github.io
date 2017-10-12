@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Loading data to catamel"
+date:   2017-10-10 22:20:58 +0100
+categories: jekyll update
+---
+
+
+
+
+Adding synthetic data to catamel via Typescript.
+
+git repository: [CatanieDataLoad](https://github.com/garethcmurphy/CatanieDataLoad)

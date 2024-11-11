@@ -8,8 +8,9 @@ categories: jekyll update
 
 
 
+I was part of the team that built the **ASDC**, a cutting-edge platform that revolutionizes atmospheric and space science research. This platform serves as a central hub for archiving, managing, and distributing critical data from the ASIM instrument aboard the International Space Station. 
 
-I helped build the **ASDC**, a platform that powers atmospheric and space science research. As part of this, I:
+As part of this exciting project, I:
 
 * **Automated data collection:** Developed pipelines to seamlessly ingest data from various sources.
 * **Ensured data quality:** Implemented rigorous validation and quality control procedures.
@@ -17,5 +18,6 @@ I helped build the **ASDC**, a platform that powers atmospheric and space scienc
 * **Secured the future of science:** Implemented strategies for long-term data preservation.
 * **Collaborated with scientists:** Tailored the ASDC to meet their specific needs. 
 
-By working closely with scientists, I contributed to the advancement of atmospheric and space science by providing researchers with easy access to high-quality data.
+By working closely with scientists, I contributed to the advancement of atmospheric and space science by providing researchers with easy access to high-quality data. 
+
 

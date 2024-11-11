@@ -1,8 +1,31 @@
 ---
 layout: post
-title:  "Python visualisation scripts for simulation data"
+title:  "Visualizing the Unseen: Unlocking the Power of Simulation Data"
 date:   2016-01-26 14:20:58 +0100
 categories: python update
 ---
 
-A collection of python scripts to read simulation data from snoopy, pluto etc, into Visit Visualisation Tool and plot the vorticity, draw streamlines, magnetic field lines and plot anisotropy stress tensors.
+**Title: Visualizing the Unseen: Unlocking the Power of Simulation Data**
+
+**Dive into the World of Scientific Visualization**
+
+Ever wondered how to bring complex simulation data to life? This project is your key to unlocking the hidden beauty and insights within scientific simulations. 
+
+**What's Inside:**
+
+A curated collection of Python scripts designed to:
+
+* **Seamlessly read** simulation data from popular tools like Snoopy and Pluto.
+* **Transform raw data** into stunning visualizations using the powerful Visit visualization tool.
+* **Unveil intricate details** like vorticity, streamlines, magnetic field lines, and anisotropy stress tensors.
+
+**Why Choose This Project:**
+
+* **Efficiency:** Automate your visualization workflow, saving time and effort.
+* **Clarity:** Gain deeper insights into your simulations through clear and concise visualizations.
+* **Flexibility:** Customize your visualizations to suit your specific research needs.
+* **Community-Driven:** Join a vibrant community of scientists and engineers who are leveraging these tools to push the boundaries of knowledge.
+
+**Ready to Visualize Your Data?**
+
+

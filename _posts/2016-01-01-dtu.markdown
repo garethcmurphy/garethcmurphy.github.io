@@ -1,0 +1,12 @@
+* **DTU Space**
+* **[Start Date] - [End Date]**
+
+Contributed to the development and maintenance of the **ASDC (Atmospheric Science Data Centre)**, a platform for archiving, managing, and distributing atmospheric and space science data. Key responsibilities included: 
+
+* **Data Ingestion:** Developed and implemented data ingestion pipelines to automatically collect and process data from various sources.
+* **Data Quality Assurance:** Implemented data validation and quality control procedures to ensure data accuracy and consistency.
+* **Data Discovery and Access:** Designed and implemented a user-friendly interface for searching and downloading data.
+* **Data Preservation:** Implemented strategies for long-term data preservation and archiving.
+* **Collaboration with Scientists:** Worked closely with scientists to understand their data needs and tailor the ASDC to their requirements. 
+
+Through these efforts, I contributed to the advancement of atmospheric and space science research by providing researchers with easy access to high-quality data.

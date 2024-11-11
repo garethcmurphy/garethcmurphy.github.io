@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Verilog code for filtering on FPGAs"
-date:   2016-01-25 22:20:58 +0100
+date:   2002-01-25 22:20:58 +0100
 categories: jekyll update
 ---
 

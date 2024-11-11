@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a software developer at ESS DMSC, Denmark. Previously, I was a software developer at DTU Space, and a postdoctoral researcher at the Niels Bohr International Academy, University of Copenhagen, Denmark, Dublin Institute for Advanced Studies, and Institute de Planetologie et Astrophysique de Grenoble. I obtained my PhD at the Dublin Institute for Advanced Studies and Trinity College, Dublin.
+I am a manager in Research Data Orchestration, Denmark. Previously, I was a software developer at ESS and DTU Space, and a postdoctoral researcher at the Niels Bohr International Academy, University of Copenhagen, Denmark, Dublin Institute for Advanced Studies, and Institute de Planetologie et Astrophysique de Grenoble. I obtained my PhD at the Dublin Institute for Advanced Studies and Trinity College, Dublin.
 
 * Languages: Python, C/C++, Javascript, Java, PHP, Shell scripting, Fortran, Verilog, VHDL
 * Version Control Systems: Git, Mercurial, Subversion, CVS, SCCS
@@ -18,6 +18,3 @@ I am a software developer at ESS DMSC, Denmark. Previously, I was a software dev
 * Word Processing: Microsoft Word, TeX, Google Docs
 * Presentations: Microsoft PowerPoint, Keynote, GitPitch
 
-
-My webpage at 
-[ESS DMSC](https://europeanspallationsource.se/profile/gareth-murphy)

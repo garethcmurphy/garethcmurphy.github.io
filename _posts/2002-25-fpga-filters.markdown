@@ -8,7 +8,6 @@ categories: jekyll update
 
 
 
-## Taming the Noise: FPGA-Accelerated Speech Filtering
 
 **Tired of muffled voice calls and noisy audio recordings?** 
 

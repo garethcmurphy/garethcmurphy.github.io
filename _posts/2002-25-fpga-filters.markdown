@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Verilog code for filtering on FPGAs"
+title:  "Taming the Noise: FPGA-Accelerated Speech Filtering"
 date:   2002-01-25 22:20:58 +0100
 categories: jekyll update
 ---
@@ -8,9 +8,32 @@ categories: jekyll update
 
 
 
-A common design problem in digital signal processing is electronic noise in speech signals. The hardware for a basic noise filter for speech can be most conveniently implemented on a field programmable gate array (FPGA). Such a device allows the user to simulate a hardware design in real time: to test, alter and debug it in the space of a few hours without the cost associated with silicon microchip manufacture. The aim of the project was to develop various filters for noisy speech signals, and to investigate the trade-off between power consumption, performance and FPGA gate usage. Finite impulse response filters were developed in Matlab and implemented on the FPGA. 
+## Taming the Noise: FPGA-Accelerated Speech Filtering
 
-The Verilog language describes the functionality of digital logic hardware. It is used for simulation of digital circuits and for realisation of digital circuits on FPGAs. The code provides a description of logic at behavioural level. This means for example, that an arithmetical function can be specified directly (e.g. multiplication, x = a * b) without the need for each actual gate to be specified by the user. The actual gates are produced as a netlist (the logic is “synthesised”) by the software. Not all Verilog constructs can be synthesised, either because they are impossible for a chip (e.g. displaying to screen), illegal (e.g. storing two values in the same register) or simply due to lack of space on the chip (e.g. a 20-bit 8-tap digital filter).
+**Tired of muffled voice calls and noisy audio recordings?** 
+
+We've been working on a solution that leverages the power of **Field Programmable Gate Arrays (FPGAs)** to clean up your audio.
+
+**The Challenge:**
+
+Electronic noise is a common culprit that can degrade the quality of speech signals. Traditional software-based solutions can be computationally intensive and power-hungry. 
+
+**Our Approach:**
+
+We designed and implemented **Finite Impulse Response (FIR) filters** on an FPGA. These digital filters are like a magical sieve, separating the desired speech signal from unwanted noise. 
+
+**Key Benefits:**
+
+* **Real-time Processing:** FPGAs offer the speed and flexibility to process audio signals in real-time.
+* **Low Power Consumption:** Efficient hardware implementation reduces power consumption.
+* **Customizable Design:** FPGAs allow us to tailor the filter design to specific noise conditions.
+* **Rapid Prototyping:** We can quickly test and refine our designs on the FPGA, accelerating development.
+
+**The Tech Behind the Magic:**
+
+We used **Verilog**, a hardware description language, to describe the filter's behavior at a high level. This allows us to focus on the filter's functionality without getting bogged down in low-level gate-level details. 
+
+By leveraging the power of FPGAs and efficient filter design, we're making a significant stride towards crystal-clear audio experiences. 
 
 
 git repository: [FPGA-filters](https://github.com/garethcmurphy/fpga-filters)

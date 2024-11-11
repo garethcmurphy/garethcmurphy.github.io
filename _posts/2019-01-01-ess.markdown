@@ -1,4 +1,9 @@
-
+---
+layout: post
+title:  "ESS"
+date:   2019-01-01 22:20:58 +0100
+categories: jekyll update
+---
 
 Contributed to the development and implementation of the **Scicat** platform, a critical component of the ESS data infrastructure. Key responsibilities included: 
 

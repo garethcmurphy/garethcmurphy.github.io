@@ -5,7 +5,6 @@ date:   2016-01-26 14:20:58 +0100
 categories: python update
 ---
 
-**Title: Visualizing the Unseen: Unlocking the Power of Simulation Data**
 
 **Dive into the World of Scientific Visualization**
 

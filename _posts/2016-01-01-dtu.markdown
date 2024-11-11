@@ -1,18 +1,21 @@
 ---
 layout: post
-title:  "DTU"
+title:  "Fueling Space Science with ASDC"
 date:   2017-01-01 22:20:58 +0100
 categories: jekyll update
 ---
 
 
 
-Contributed to the development and maintenance of the **ASDC (Atmospheric Science Data Centre)**, a platform for archiving, managing, and distributing atmospheric and space science data. Key responsibilities included: 
 
-* **Data Ingestion:** Developed and implemented data ingestion pipelines to automatically collect and process data from various sources.
-* **Data Quality Assurance:** Implemented data validation and quality control procedures to ensure data accuracy and consistency.
-* **Data Discovery and Access:** Designed and implemented a user-friendly interface for searching and downloading data.
-* **Data Preservation:** Implemented strategies for long-term data preservation and archiving.
-* **Collaboration with Scientists:** Worked closely with scientists to understand their data needs and tailor the ASDC to their requirements. 
 
-Through these efforts, I contributed to the advancement of atmospheric and space science research by providing researchers with easy access to high-quality data.
+I helped build the **ASDC**, a platform that powers atmospheric and space science research. As part of this, I:
+
+* **Automated data collection:** Developed pipelines to seamlessly ingest data from various sources.
+* **Ensured data quality:** Implemented rigorous validation and quality control procedures.
+* **Empowered researchers:** Designed a user-friendly interface for easy data discovery and access.
+* **Secured the future of science:** Implemented strategies for long-term data preservation.
+* **Collaborated with scientists:** Tailored the ASDC to meet their specific needs. 
+
+By working closely with scientists, I contributed to the advancement of atmospheric and space science by providing researchers with easy access to high-quality data.
+

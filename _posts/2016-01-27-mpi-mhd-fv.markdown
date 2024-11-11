@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Magnetohydrodynamics code for jet simulations"
-date:   2016-01-28 14:20:58 +0100
+date:   2007-01-28 14:20:58 +0100
 categories: jekyll update
 ---
 

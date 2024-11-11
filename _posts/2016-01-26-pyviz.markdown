@@ -6,7 +6,7 @@ categories: python update
 ---
 
 
-**Dive into the World of Scientific Visualization**
+
 
 Ever wondered how to bring complex simulation data to life? This project is your key to unlocking the hidden beauty and insights within scientific simulations. 
 

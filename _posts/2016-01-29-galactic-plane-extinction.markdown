@@ -32,7 +32,7 @@ The culmination of this project was the creation of a stunning visualization of 
 
 This project represents a significant step forward in our understanding of the Milky Way's dusty veil. By refining these techniques and exploring additional datasets, we can continue to uncover the secrets of our galaxy and its cosmic neighbors.
  
-[Insert your visualization of the Galactic dust extinction map here]
+
 
 
 

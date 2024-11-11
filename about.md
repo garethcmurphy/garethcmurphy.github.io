@@ -4,17 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am a manager in Research Data Orchestration, Novo Nordisk, Denmark. Previously, I was a software developer at ESS and DTU Space, and a postdoctoral researcher at the Niels Bohr International Academy, University of Copenhagen, Denmark, Dublin Institute for Advanced Studies, and Institute de Planetologie et Astrophysique de Grenoble. I obtained my PhD at the Dublin Institute for Advanced Studies and Trinity College, Dublin.
+I am a manager in Research Data Orchestration, Novo Nordisk, Denmark. I am passionate about leading teams and driving innovation. My expertise lies in strategic planning, team building, and problem-solving.
 
-* Languages: Python, C/C++, Javascript, Java, PHP, Shell scripting, Fortran, Verilog, VHDL
-* Version Control Systems: Git, Mercurial, Subversion, CVS, SCCS
-* Automation/Build Tools: Docker, Fabric, Jenkins
-* Testing tools: Karma, Protractor, Pytest, Mocha, CTest, Google Test, Travis-CI
-* App & Web Servers: Angular, Django, Apache, Nginx
-* Parallelisation: MPI, OpenMP
-* Databases: MongoDB, PostgreSQL, MariaDB, MySQL
-* Virtualisation: Kubernetes, VM Ware, Virtualbox, Docker, Amazon AWS/EC2
-* Platforms: Linux and UNIX, Solaris, Windows, MacOS
-* Word Processing: Microsoft Word, TeX, Google Docs
-* Presentations: Microsoft PowerPoint, Keynote, GitPitch
+With years of experience, I have successfully led teams to achieve their goals and deliver exceptional results. I am skilled in project management, budget management, and performance management.
+
+I am committed to fostering a positive and collaborative work environment, empowering team members, and promoting professional development. I am a strong communicator and believe in building strong relationships with colleagues and stakeholders.
 

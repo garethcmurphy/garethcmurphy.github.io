@@ -6,8 +6,6 @@ categories: jekyll update
 ---
 
 
-## Title: Chasing Supernovae: Simulating Explosions in Code
-
 Ever wondered what happens when a massive star explodes? Buckle up, because I've been building a virtual universe to simulate just that – supernovae and stellar jets! 
 
 This isn't your average code. It's a **2nd order finite volume magnetohydrodynamics beast**, written to capture the mind-blowing physics behind these cosmic events. 

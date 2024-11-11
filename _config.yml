@@ -7,7 +7,7 @@
 
 # Site settings
 title: Gareth Murphy
-email: gareth.murphy@esss.se
+email: gtmh@novonordisk.com
 description: > # this means to ignore newlines until "baseurl:"
     I am a manager in Research Data Orchestration, Novo Nordisk.
 baseurl: "" # the subpath of your site, e.g. /blog

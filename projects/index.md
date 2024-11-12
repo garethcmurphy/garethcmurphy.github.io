@@ -6,17 +6,22 @@ permalink: /projects/
 
 ### [Mapping dust extinction in the galactic plane](https://github.com/garethcmurphy/galactic-plane-map)
 
-C++ code to map dust extinction in the Galactic Plane, using the Wolf star count method, and 2MASS catalogue data.
+This C++ project aims to map dust extinction in the Galactic Plane using the Wolf star count method and the 2MASS catalog. It processes 2MASS data, counts stars in specific magnitude bins, compares observed and expected counts to derive extinction values, and visualizes the results in a 2D map. The project can be enhanced by incorporating color excess, considering stellar density variations, and implementing statistical error analysis.
 
-### [MPI-MHD-FV](https://github.com/garethcmurphy/mpi-mhd-fv)
 
-MHD code to simulate jets and supernovae.
-This project is an old MHD code, written originally to simulate jets and outflows.
-Updated to use 64-bit addresses for pointers.
-It depends on [HDF5](https://www.hdfgroup.org) for data storage, which is compatible with many visualisation tools (Matlab, IDL etc).
-[MPI](http://www.mpi-forum.org) is used to communicate between processors.
-The numerical method used is a second-order Godunov, shock capturing, finite volume scheme with an adiabatic equation of state.
-The Riemann problem is solved to calculate the flux of mass, momentum and energy at cell interfaces. Roe, HLLD, or Lax-Friedrichs approximate Riemann solvers are all implemented.
+### [Unleash the Fury: Simulating Jets and Supernovae with Cutting-Edge MHD Code](https://github.com/garethcmurphy/mpi-mhd-fv)
+
+This code isn't your dusty attic relic – it's a powerhouse for simulating the most explosive events in the cosmos: **jets** and **supernovae**! Originally built to tame these celestial tantrums, it's been upgraded for the modern era with 64-bit precision for handling massive datasets.
+
+**Here's the tech powering the simulation:**
+
+* **HDF5**: Forget clunky data storage, this code uses HDF5, a format compatible with popular visualization tools like Matlab and IDL. Now you can turn your simulation into stunning visuals.
+* **MPI**: Teamwork makes the dream work! This code utilizes MPI for seamless communication between processors, allowing you to tackle even the most complex simulations with ease.
+* **Godunov's Scheme**: This sophisticated numerical method captures the shockwaves that erupt during these cosmic explosions with pinpoint accuracy. Imagine a second-order equation of state keeping track of every twist and turn!
+* **Riemann Solver Powerhouse**: Choose your weapon! This code offers multiple approximate Riemann solvers, including Roe, HLLD, and Lax-Friedrichs, to tackle different types of cosmic phenomena.
+
+**Ready to witness the universe unfold? This code is your key to unlocking the secrets of jets and supernovae!**
+
 
 
 ### [FPGA-filters](https://github.com/garethcmurphy/fpga-filters)

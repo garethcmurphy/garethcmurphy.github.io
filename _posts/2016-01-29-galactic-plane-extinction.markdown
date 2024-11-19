@@ -11,6 +11,7 @@ categories: galactic plane mapping
 Have you ever wondered about the mysterious dust that obscures our view of the cosmos? In this project, I delved into the heart of the Milky Way to map the distribution of interstellar dust, a crucial component of our galaxy. 
 
 **A Celestial Puzzle**
+![plane](images/p003.png)
 
 To unravel this cosmic puzzle, I employed the powerful C++ programming language and leveraged the vast dataset provided by the 2MASS catalog. By implementing the Wolf star count method, I analyzed the dimming of stars caused by interstellar dust. This technique allowed me to quantify the dust extinction along different lines of sight.
 

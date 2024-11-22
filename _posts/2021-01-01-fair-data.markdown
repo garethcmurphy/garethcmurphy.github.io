@@ -22,3 +22,5 @@ formats
 multi
 -instrument format with rich 
 metadata Allotrope Foundation
+
+https://www.deic.dk/sites/default/files/documents/Konference/DeiC-konference-2021/2021-11-04%20FAIR%20at%20scale%20-%20lessons%20learnt_DeiC21.pdf

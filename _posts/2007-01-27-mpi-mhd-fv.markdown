@@ -23,6 +23,7 @@ Think of it as a super-powered calculator, churning through equations to model t
 **Ready to Dive Deep?**
 
 The code is now available! .  Let's explore the universe together, one simulated supernova at a time.
+![jets](/images/jets.png "Jets")
 
 
 [mpi-mhd-fv](https://github.com/garethcmurphy/mpi-mhd-fv)

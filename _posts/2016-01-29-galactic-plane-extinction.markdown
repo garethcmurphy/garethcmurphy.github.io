@@ -12,7 +12,7 @@ Have you ever wondered about the mysterious dust that obscures our view of the c
 
 **A Celestial Puzzle**
 
-![2003 grid computing](../images/p007.png "Title")
+
 
 ![2003 grid computing](/images/p007.png "Title")
 

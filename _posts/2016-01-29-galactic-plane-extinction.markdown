@@ -14,7 +14,7 @@ Have you ever wondered about the mysterious dust that obscures our view of the c
 
 
 
-![2003 grid computing](/images/p007.png "Title")
+![galaxy](/images/gal.png "Galactic Plane")
 
 To unravel this cosmic puzzle, I employed the powerful C++ programming language and leveraged the vast dataset provided by the 2MASS catalog. By implementing the Wolf star count method, I analyzed the dimming of stars caused by interstellar dust. This technique allowed me to quantify the dust extinction along different lines of sight.
 

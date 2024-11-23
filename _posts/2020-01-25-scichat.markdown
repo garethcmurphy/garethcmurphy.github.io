@@ -5,10 +5,28 @@ date:   2002-01-25 22:20:58 +0100
 categories: jekyll update
 ---
 
-**Tired of muffled voice calls and noisy audio recordings?** We've been working on a solution that leverages the power of **Field Programmable Gate Arrays (FPGAs)** to clean up your audio.
-**The Challenge:**
-Electronic noise is a common culprit that can degrade the quality of speech signals. Traditional software-based solutions can be computationally intensive and power-hungry. 
-**Our Approach:**
-We designed and implemented **Finite Impulse Response (FIR) filters** on an FPGA. These digital filters are like a magical sieve, separating the desired speech signal from unwanted noise. 
+SciChat: Your Experiment Data, Visualized and Shared! 🎉
+**Ever wondered what your ESS experiment data looks like, all dressed up and ready for a party?** Well, wonder no more! 💃🕺
+Our SciChat bot is here to turn your raw data into stunning visualizations that'll have your chat group doing a double-take. 🤯
+**Here's a sneak peek of what your data can look like:**
+* **Dazzling Data Dashboards:** 📊  Interactive visualizations that let you explore your data from every angle. 
+* **Trendy Time-Series Plots:** 📈  See how your data evolves over time, with smooth curves and sharp peaks.
+* **Eye-Catching Scatter Plots:** scatterplot.png  Uncover hidden patterns and correlations in your data.
+
+**How it works:**
+
+1. **Experiment:** You conduct your experiment at ESS, collecting valuable data.
+2. **Data Upload:** Our bot automatically fetches your data from the ESS data portal.
+3. **Visualization Magic:** The bot applies its data wizardry to create stunning visualizations.
+4. **Shared Splendor:** Your personalized visualizations are shared directly to your chat group, ready to impress.
+
+**Why SciChat?**
+
+* **Save Time:** No more manual data wrangling and visualization.
+* **Share Insights:** Easily share your findings with your team and collaborators.
+* **Elevate Your Research:** Make a lasting impression with visually appealing data.
+
+So, next time you're ready to share your ESS experiment results, let SciChat do the heavy lifting! 🏋️‍♀️ Your data, your way, visualized to perfection. ✨
+ 
 
 ![fpga](/images/fpga.png "FPGA")

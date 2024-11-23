@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Taming the Noise: FPGA-Accelerated Speech Filtering"
-date:   2002-01-25 22:20:58 +0100
+date:   2002-03-15 22:20:58 +0100
 categories: jekyll update
 ---
 

@@ -7,9 +7,7 @@ categories: jekyll update
 
 
 
-## Supercharge Your ESS Neutron Data with CatanieDataLoad!
-
-Calling all neutron researchers using the ESS! Have a treasure trove of new data just waiting to be unleashed on the world? We've got the key to unlock its potential: the **CatanieDataLoad**神器 (shén qì) - that's "divine instrument" in Chinese, for those not fluent in awesomeness! 
+Supercharge Your ESS Neutron Data with CatanieDataLoad! Calling all neutron researchers using the ESS! Have a treasure trove of new data just waiting to be unleashed on the world? We've got the key to unlock its potential: the **CatanieDataLoad**神器 (shén qì) - that's "divine instrument" in Chinese, for those not fluent in awesomeness! 
 
 This isn't your average data loader. **CatanieDataLoad** is a powerhouse ETL (Extract, Transform, Load) pipeline housed in a sleek Git repository ([https://github.com/dlt-hub/dlt](https://github.com/dlt-hub/dlt)), ready to streamline your data journey to the ESS Neutron Data Catalogue (SciCat). 
 

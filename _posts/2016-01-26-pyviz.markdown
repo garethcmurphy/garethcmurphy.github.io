@@ -11,6 +11,7 @@ categories: python update
 Ever wondered how to bring complex simulation data to life? This project is your key to unlocking the hidden beauty and insights within scientific simulations. **What's Inside:** A curated collection of Python scripts designedto: * **Seamlessly read** simulation data from popular tools likeSnoopy and Pluto.
 * **Transform raw data** into stunning visualizations using the powerful Visit visualization tool.
 * **Unveil intricate details** like vorticity, streamlines, magnetic field lines, and anisotropy stress tensors.
+![image](https://github.com/user-attachments/assets/10f141c6-8a29-429f-8179-8d3af35d900f)
 
 **Why Choose This Project:**
 

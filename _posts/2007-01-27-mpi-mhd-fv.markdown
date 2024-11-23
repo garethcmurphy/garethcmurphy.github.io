@@ -6,9 +6,7 @@ categories: jekyll update
 ---
 
 
-Ever wondered what happens when a massive star explodes? Buckle up, because I've been building a virtual universe to simulate just that – supernovae and stellar jets! 
-
-This isn't your average code. It's a **2nd order finite volume magnetohydrodynamics beast**, written to capture the mind-blowing physics behind these cosmic events. 
+Ever wondered what happens when a massive star explodes? Buckle up, because I've been building a virtual universe to simulate just that – supernovae and stellar jets! This isn't your average code. It's a **2nd order finite volume magnetohydrodynamics beast**, written to capture the mind-blowing physics behind these cosmic events. 
 
 Think of it as a super-powered calculator, churning through equations to model the flow of charged particles, magnetic fields, and the sheer energy unleashed in a star's death throes.
 

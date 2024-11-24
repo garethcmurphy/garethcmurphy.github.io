@@ -2,7 +2,7 @@
 layout: post
 title: "Taming the Noise: FPGA-Accelerated Speech Filtering"
 date: 2002-03-15 22:20:58 +0100
-categories: fpga
+categories: fpga audio signal-processing hardware technology
 ---
 
 **Tired of muffled voice calls and noisy audio recordings?** We've been working on a solution that leverages the power of **Field Programmable Gate Arrays (FPGAs)** to clean up your audio.

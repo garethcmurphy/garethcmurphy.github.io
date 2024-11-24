@@ -2,7 +2,7 @@
 layout: post
 title: "Reconnecting Current Sheets in MHD Simulations: A Deep Dive"
 date: 2010-11-21 22:20:58 +0100
-categories: jekyll update
+categories: MHD, simulations, astrophysics, magnetic reconnection
 ---
 
 Reconnecting Current Sheets in MHD Simulations: A Deep Dive

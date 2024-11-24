@@ -2,7 +2,7 @@
 layout: post
 title: "Jets: MHD Simulations of Rotating Accretion Disks Launching Jets"
 date: 2009-10-25 22:20:58 +0100
-categories: jekyll update
+categories: astrophysics, simulations, MHD, accretion-disks, jet-formation
 ---
 
 **Understanding the Phenomenon**

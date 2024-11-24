@@ -5,7 +5,10 @@ date:   2019-04-04 22:20:58 +0100
 categories: science, technology, data-infrastructure  
 ---
 
-The **European Spallation Source (ESS)** is a state-of-the-art research facility 🔬 that generates intense neutron beams 🌟 to probe the fundamental properties of matter. To harness the immense potential of these neutron beams, a robust data infrastructure is essential 🛠️. I was proud to be part of the team that built **Scicat** 💾, the backbone of this critical infrastructure. As a key contributor to this project, I played a crucial role in:
+The **European Spallation Source (ESS)** is a state-of-the-art research facility 🔬 that generates intense neutron beams 🌟 to probe the fundamental properties of matter. To harness the immense potential of these neutron beams, a robust data infrastructure is essential 🛠️. I was proud to be part of the team that built **Scicat** 💾, the backbone of this critical infrastructure.
+![galaxy](/images/scatter.jpeg "Galactic Plane")
+As a key contributor to this project, I played a crucial role in:
+
 * **Designing a robust data model** 🗂️ to efficiently store and retrieve vast amounts of scientific data.
 * **Developing powerful APIs** 🔌 to enable seamless integration with other systems and tools.
 * **Creating a user-friendly interface** 🖥️ that empowers researchers to explore and analyze data with ease.

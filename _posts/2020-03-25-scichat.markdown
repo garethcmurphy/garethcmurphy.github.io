@@ -11,7 +11,6 @@ Our SciChat bot is here to turn your raw data into stunning visualizations that'
 ![galaxy](/images/scatter.jpeg "Galactic Plane")
 **Here's a sneak peek of what your data can look like:**
 
-
 - **Dazzling Data Dashboards:** 📊 Interactive visualizations that let you explore your data from every angle.
 - **Trendy Time-Series Plots:** 📈 See how your data evolves over time, with smooth curves and sharp peaks.
 - **Eye-Catching Scatter Plots:** scatterplot.png Uncover hidden patterns and correlations in your data.

@@ -12,6 +12,6 @@ I was part of the team that built the **ASDC**, a cutting-edge platform that rev
 - **Empowered researchers:** Designed a user-friendly interface for easy data discovery and access.
 - **Secured the future of science:** Implemented strategies for long-term data preservation.
 - **Collaborated with scientists:** Tailored the ASDC to meet their specific needs.
+![galaxy](/images/asdc.png "Galactic Plane")
 
 By working closely with scientists, I contributed to the advancement of atmospheric and space science by providing researchers with easy access to high-quality data.
-![galaxy](/images/asdc.png "Galactic Plane")

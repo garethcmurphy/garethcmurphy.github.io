@@ -28,7 +28,7 @@ Accretion disks are swirling masses of gas and dust that orbit a central object 
    - **Observation:** Magnetic reconnection events release energy, heating the plasma and driving outflows.
    - **Jet Formation:** The reconnection events can power the acceleration of plasma along magnetic field lines, forming jets.
 
-**Challenges and Future Directions**
+## Challenges and Future Directions
 
 While MHD simulations have made significant progress in understanding jet formation, several challenges remain:
 

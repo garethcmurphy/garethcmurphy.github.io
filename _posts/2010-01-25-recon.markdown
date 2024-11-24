@@ -9,11 +9,10 @@ Reconnecting Current Sheets in MHD Simulations: A Deep Dive
 **Understanding Current Sheets**
 In magnetohydrodynamics (MHD), current sheets are regions of concentrated electric current. These sheets can become unstable, leading to a process known as magnetic reconnection. During reconnection, magnetic field lines break and reconnect, releasing vast amounts of energy. This process is fundamental to many astrophysical phenomena, including solar flares, coronal mass ejections, and black hole accretion disks.
 **MHD Simulations: A Virtual Laboratory**
-![Uploading image.png…]()
 
 MHD simulations provide a powerful tool for studying reconnection processes. By numerically solving the MHD equations, researchers can explore the behavior of plasma under various conditions.
 
-**Key Experiments in MHD Simulations**
+## Key Experiments in MHD Simulations
 
 1. **Tearing Mode Instability:**
 
@@ -38,7 +37,7 @@ MHD simulations provide a powerful tool for studying reconnection processes. By 
    - **Observation:** Reconnection can occur at a very fast rate, driven by electron kinetic effects.
    - **Significance:** These simulations provide insights into the microphysics of reconnection, which is crucial for understanding the energy release mechanisms.
 
-**Future Directions**
+## Future Directions
 
 - **Multi-Scale Simulations:** Combining MHD and kinetic simulations to capture the full range of scales involved in reconnection.
 - **Non-Ideal Effects:** Incorporating effects like viscosity, thermal conductivity, and anomalous resistivity to better model realistic astrophysical plasmas.

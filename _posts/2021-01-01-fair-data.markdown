@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Making Life Science Data FAIR: 🌱"
+title: "Making Life Science Data FAIR: 🌱 Enhancing Data Accessibility and Discoverability in Life Sciences 🔍"
 date: 2021-04-03 22:20:58 +0100
-categories: jekyll update
+categories: fair, data
 ---
-
-**Enhancing Data Accessibility and Discoverability in Life Sciences 🔍**
 
 In the era of big data, life science research generates vast amounts of valuable data. However, much of this data remains inaccessible, hindering scientific progress and collaboration. To address this challenge, the FAIR principles—Findable, Accessible, Interoperable, and Reusable—provide a framework for managing and sharing data effectively. This blog post explores strategies for implementing FAIR principles in life science research, focusing on assays, instruments, common data formats, and automated data registration.
 

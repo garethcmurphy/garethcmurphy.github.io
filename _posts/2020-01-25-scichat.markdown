@@ -2,7 +2,7 @@
 layout: post
 title:  "SciChat: get your experiment data visualised in chatgroup"
 date:   2020-11-25 22:20:58 +0100
-categories: jekyll update
+categories: fair data
 ---
 
 SciChat: Your Experiment Data, Visualized and Shared! 🎉

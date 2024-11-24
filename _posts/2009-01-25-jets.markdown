@@ -9,7 +9,7 @@ categories: jekyll update
 Accretion disks are swirling masses of gas and dust that orbit a central object like a black hole or a young star. These disks can launch powerful jets of matter and energy, extending far beyond the disk itself. The mechanisms behind jet formation are complex and not fully understood, but magnetohydrodynamic (MHD) simulations have provided significant insights.
 ![image](https://github.com/user-attachments/assets/09d2388c-bce4-4419-98c8-5502d132f065)
 
-**Key Simulations and Findings**
+## Key Simulations and Findings
 
 1. **Magneto-Rotational Instability (MRI):**
 

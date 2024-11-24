@@ -12,13 +12,13 @@ To unravel this cosmic puzzle, I employed the powerful C++ programming language 
 The culmination of this project was the creation of a stunning visualization of the Galactic dust extinction map. This visual representation offers a glimpse into the intricate structure of our galaxy, revealing the dense dust lanes that wind their way through the stellar disk.
 ![galaxy](/images/gal.png "Galactic Plane")
 
-**Technical Deep Dive**
+## Technical Deep Dive
 
 - **C++ Implementation:** I harnessed the efficiency and flexibility of C++ to process the massive 2MASS dataset and perform the complex calculations required for the Wolf star count method.
 - **Data Analysis:** The 2MASS catalog provided a wealth of information, including stellar magnitudes and positions. By carefully analyzing this data, I was able to identify regions of high and low dust extinction.
 - **Visualization:** The resulting extinction map was generated using specialized visualization tools, providing a visually striking representation of the dust distribution.
 
-**The Future of Galactic Exploration**
+## The Future of Galactic Exploration**
 
 This project represents a significant step forward in our understanding of the Milky Way's dusty veil. By refining these techniques and exploring additional datasets, we can continue to uncover the secrets of our galaxy and its cosmic neighbors.
 

@@ -1,5 +1,5 @@
 # Github personal webpage 
-Gareth Murphy code webpage
+Gareth Murphy webpage
 
 [site](https://garethcmurphy.github.io)
 
@@ -7,7 +7,7 @@ Gareth Murphy code webpage
 
 
 
-**How It's Built**
+**Tools used**
 
 This website is built using Jekyll, a static site generator, and hosted on GitHub Pages. Jekyll takes my Markdown files and templates and generates static HTML files, which are then deployed to GitHub Pages. 
 

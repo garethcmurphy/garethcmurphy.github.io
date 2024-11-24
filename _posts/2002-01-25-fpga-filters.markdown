@@ -10,7 +10,6 @@ categories: jekyll update
 Electronic noise is a common culprit that can degrade the quality of speech signals. Traditional software-based solutions can be computationally intensive and power-hungry.
 **Our Approach:**
 We designed and implemented **Finite Impulse Response (FIR) filters** on an FPGA. These digital filters are like a magical sieve, separating the desired speech signal from unwanted noise.
-
 ![fpga](/images/fpga.png "FPGA")
 
 **Key Benefits:**

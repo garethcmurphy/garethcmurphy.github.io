@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Jets"
-date:   2009-10-25 22:20:58 +0100
+title: "Jets"
+date: 2009-10-25 22:20:58 +0100
 categories: jekyll update
 ---
 
@@ -11,30 +11,32 @@ Accretion disks are swirling masses of gas and dust that orbit a central object 
 ![image](https://github.com/user-attachments/assets/09d2388c-bce4-4419-98c8-5502d132f065)
 
 **Key Simulations and Findings**
+
 1. **Magneto-Rotational Instability (MRI):**
-   * **Simulation Setup:** A rotating accretion disk with a weak, initially poloidal magnetic field.
-   * **Observation:** The MRI amplifies the magnetic field, leading to the formation of magnetic loops that rise above the disk surface.
-   * **Jet Formation:** As the magnetic loops rise, they can accelerate and collimate the outflowing plasma, forming jets.
+
+   - **Simulation Setup:** A rotating accretion disk with a weak, initially poloidal magnetic field.
+   - **Observation:** The MRI amplifies the magnetic field, leading to the formation of magnetic loops that rise above the disk surface.
+   - **Jet Formation:** As the magnetic loops rise, they can accelerate and collimate the outflowing plasma, forming jets.
 
 2. **Blandford-Payne Mechanism:**
-   * **Simulation Setup:** A steady-state, axisymmetric accretion disk with a strong, poloidal magnetic field.
-   * **Observation:** Magnetic field lines threading the disk extract rotational energy and angular momentum from the disk, accelerating plasma to relativistic speeds.
-   * **Jet Formation:** The accelerated plasma is collimated by the magnetic field lines, forming a jet.
+
+   - **Simulation Setup:** A steady-state, axisymmetric accretion disk with a strong, poloidal magnetic field.
+   - **Observation:** Magnetic field lines threading the disk extract rotational energy and angular momentum from the disk, accelerating plasma to relativistic speeds.
+   - **Jet Formation:** The accelerated plasma is collimated by the magnetic field lines, forming a jet.
 
 3. **Magnetically Driven Accretion Disks:**
-   * **Simulation Setup:** A disk with a strong, turbulent magnetic field.
-   * **Observation:** Magnetic reconnection events release energy, heating the plasma and driving outflows.
-   * **Jet Formation:** The reconnection events can power the acceleration of plasma along magnetic field lines, forming jets.
+   - **Simulation Setup:** A disk with a strong, turbulent magnetic field.
+   - **Observation:** Magnetic reconnection events release energy, heating the plasma and driving outflows.
+   - **Jet Formation:** The reconnection events can power the acceleration of plasma along magnetic field lines, forming jets.
 
 **Challenges and Future Directions**
 
 While MHD simulations have made significant progress in understanding jet formation, several challenges remain:
 
-* **Resolving Small Scales:** Accurately capturing the small-scale physics of reconnection and particle acceleration requires high-resolution simulations.
-* **Radiative Transfer:** Incorporating radiative transfer effects is crucial for understanding the energy balance and spectral properties of jets.
-* **Three-Dimensional Simulations:** Three-dimensional simulations are necessary to capture the complex dynamics of jet formation and propagation.
+- **Resolving Small Scales:** Accurately capturing the small-scale physics of reconnection and particle acceleration requires high-resolution simulations.
+- **Radiative Transfer:** Incorporating radiative transfer effects is crucial for understanding the energy balance and spectral properties of jets.
+- **Three-Dimensional Simulations:** Three-dimensional simulations are necessary to capture the complex dynamics of jet formation and propagation.
 
 Future research will focus on addressing these challenges and exploring new physical processes that may contribute to jet formation and evolution. By combining advanced simulations with observations of astrophysical jets, scientists aim to unravel the mysteries of these enigmatic phenomena.
-
 
 ![fpga](/images/fpga.png "FPGA")

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "SciChat: get your experiment data visualised in chatgroup"
-date:   2020-11-25 22:20:58 +0100
+title: "SciChat: get your experiment data visualised in chatgroup"
+date: 2020-11-25 22:20:58 +0100
 categories: fair data
 ---
 
@@ -9,9 +9,10 @@ SciChat: Your Experiment Data, Visualized and Shared! 🎉
 **Ever wondered what your ESS experiment data looks like, all dressed up and ready for a party?** Well, wonder no more! 💃🕺
 Our SciChat bot is here to turn your raw data into stunning visualizations that'll have your chat group doing a double-take. 🤯
 **Here's a sneak peek of what your data can look like:**
-* **Dazzling Data Dashboards:** 📊  Interactive visualizations that let you explore your data from every angle. 
-* **Trendy Time-Series Plots:** 📈  See how your data evolves over time, with smooth curves and sharp peaks.
-* **Eye-Catching Scatter Plots:** scatterplot.png  Uncover hidden patterns and correlations in your data.
+
+- **Dazzling Data Dashboards:** 📊 Interactive visualizations that let you explore your data from every angle.
+- **Trendy Time-Series Plots:** 📈 See how your data evolves over time, with smooth curves and sharp peaks.
+- **Eye-Catching Scatter Plots:** scatterplot.png Uncover hidden patterns and correlations in your data.
 
 **How it works:**
 
@@ -22,11 +23,10 @@ Our SciChat bot is here to turn your raw data into stunning visualizations that'
 
 **Why SciChat?**
 
-* **Save Time:** No more manual data wrangling and visualization.
-* **Share Insights:** Easily share your findings with your team and collaborators.
-* **Elevate Your Research:** Make a lasting impression with visually appealing data.
+- **Save Time:** No more manual data wrangling and visualization.
+- **Share Insights:** Easily share your findings with your team and collaborators.
+- **Elevate Your Research:** Make a lasting impression with visually appealing data.
 
 So, next time you're ready to share your ESS experiment results, let SciChat do the heavy lifting! 🏋️‍♀️ Your data, your way, visualized to perfection. ✨
- 
 
 ![fpga](/images/fpga.png "FPGA")

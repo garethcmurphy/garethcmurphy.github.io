@@ -1,22 +1,20 @@
 ---
 layout: post
-title:  "Making neutron data accessible to scientists"
-date:   2017-10-10 22:20:58 +0100
+title: "Making neutron data accessible to scientists"
+date: 2017-10-10 22:20:58 +0100
 categories: jekyll update
 ---
 
+Supercharge Your ESS Neutron Data with CatanieDataLoad! Calling all neutron researchers using the ESS! Have a treasure trove of new data just waiting to be unleashed on the world? We've got the key to unlock its potential: the **CatanieDataLoad**神器 (shén qì) - that's "divine instrument" in Chinese, for those not fluent in awesomeness!
 
-
-Supercharge Your ESS Neutron Data with CatanieDataLoad! Calling all neutron researchers using the ESS! Have a treasure trove of new data just waiting to be unleashed on the world? We've got the key to unlock its potential: the **CatanieDataLoad**神器 (shén qì) - that's "divine instrument" in Chinese, for those not fluent in awesomeness! 
-
-This isn't your average data loader. **CatanieDataLoad** is a powerhouse ETL (Extract, Transform, Load) pipeline housed in a sleek Git repository ([https://github.com/dlt-hub/dlt](https://github.com/dlt-hub/dlt)), ready to streamline your data journey to the ESS Neutron Data Catalogue (SciCat). 
+This isn't your average data loader. **CatanieDataLoad** is a powerhouse ETL (Extract, Transform, Load) pipeline housed in a sleek Git repository ([https://github.com/dlt-hub/dlt](https://github.com/dlt-hub/dlt)), ready to streamline your data journey to the ESS Neutron Data Catalogue (SciCat).
 
 **Here's why CatanieDataLoad is your data-loading BFF:**
 
-* **Effortless ETL:** No more wrestling with data conversions and formatting! CatanieDataLoad extracts your data, transforms it into SciCat-speak, and loads it seamlessly, freeing you to focus on groundbreaking research.
-* **Time-Saving Efficiency:** Ditch the manual data wrangling. CatanieDataLoad automates the entire process, giving you back precious time to delve into your scientific pursuits.
-* **Data Quality Guardian:** Worried about inconsistencies? CatanieDataLoad acts as a data quality watchdog, ensuring your information is clean and ready for analysis.
-* **Open-Source Awesomeness:** Built with collaboration in mind, CatanieDataLoad is open-source, allowing you to customize and contribute to its ever-evolving awesomeness.
+- **Effortless ETL:** No more wrestling with data conversions and formatting! CatanieDataLoad extracts your data, transforms it into SciCat-speak, and loads it seamlessly, freeing you to focus on groundbreaking research.
+- **Time-Saving Efficiency:** Ditch the manual data wrangling. CatanieDataLoad automates the entire process, giving you back precious time to delve into your scientific pursuits.
+- **Data Quality Guardian:** Worried about inconsistencies? CatanieDataLoad acts as a data quality watchdog, ensuring your information is clean and ready for analysis.
+- **Open-Source Awesomeness:** Built with collaboration in mind, CatanieDataLoad is open-source, allowing you to customize and contribute to its ever-evolving awesomeness.
 
 **Ready to Unleash the Power?**
 
@@ -34,14 +32,11 @@ Here's your cheat sheet to get started with CatanieDataLoad:
 
 **Bonus Tips:**
 
-* **Data Quality First:** Before unleashing your data on SciCat, make sure it's sparkling clean. Validate and clean it to avoid any errors or inconsistencies.
-* **Security Matters:** Keep your sensitive data safe! Implement robust security measures to protect it during the ETL process.
-* **Error Handling Hero:** Build error handling mechanisms into your scripts. This way, any issues are identified and resolved quickly, keeping your data flowing smoothly.
-* **Documentation Dynamo:**  Maintain clear and up-to-date documentation for your ETL process. This includes instructions, configuration details, and troubleshooting tips for future reference (and to help out your fellow researchers!).
+- **Data Quality First:** Before unleashing your data on SciCat, make sure it's sparkling clean. Validate and clean it to avoid any errors or inconsistencies.
+- **Security Matters:** Keep your sensitive data safe! Implement robust security measures to protect it during the ETL process.
+- **Error Handling Hero:** Build error handling mechanisms into your scripts. This way, any issues are identified and resolved quickly, keeping your data flowing smoothly.
+- **Documentation Dynamo:** Maintain clear and up-to-date documentation for your ETL process. This includes instructions, configuration details, and troubleshooting tips for future reference (and to help out your fellow researchers!).
 
 **By harnessing the power of CatanieDataLoad, you can transform data loading from a chore into a breeze. This translates to more time for groundbreaking research and ultimately, pushes the boundaries of scientific discovery!**
-
-
-
 
 git repository: [CatanieDataLoad](https://github.com/garethcmurphy/CatanieDataLoad)

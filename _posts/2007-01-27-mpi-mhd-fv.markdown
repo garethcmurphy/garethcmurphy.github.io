@@ -1,30 +1,25 @@
 ---
 layout: post
-title:  "Chasing Supernovae: Simulating Explosions in Code"
-date:   2007-08-28 14:20:58 +0100
+title: "Chasing Supernovae: Simulating Explosions in Code"
+date: 2007-08-28 14:20:58 +0100
 categories: jekyll update
 ---
 
-
-Ever wondered what happens when a massive star explodes? Buckle up, because I've been building a virtual universe to simulate just that – supernovae and stellar jets! This isn't your average code. It's a **2nd order finite volume magnetohydrodynamics beast**, written to capture the mind-blowing physics behind these cosmic events. 
+Ever wondered what happens when a massive star explodes? Buckle up, because I've been building a virtual universe to simulate just that – supernovae and stellar jets! This isn't your average code. It's a **2nd order finite volume magnetohydrodynamics beast**, written to capture the mind-blowing physics behind these cosmic events.
 
 Think of it as a super-powered calculator, churning through equations to model the flow of charged particles, magnetic fields, and the sheer energy unleashed in a star's death throes.
 
 **Here's the tech behind the explosion:**
 
-* **64-Bit Brawn:** This code can handle massive datasets, essential for capturing the immense scale of supernovae. 
-* **HDF5: Friend of Visualization Tools:** Need to see the results? No problem! This code uses HDF5, allowing you to plug the data into popular visualization tools like Matlab or IDL and create stunning animations.
-* **MPI: Teamwork Makes the Dream Work:** Simulations this complex require a lot of processing power. MPI allows the code to run across multiple processors, speeding things up significantly. 
-* **Second-Order Godunov Scheme:** This fancy name translates to a super accurate way of modeling the flow of matter and energy within the exploding star.
-* **Choice of Riemann Solvers:** Different situations call for different tools. This code offers a toolbox of Riemann solvers (Roe, HLLD, Lax-Friedrichs) to tackle various scenarios.
+- **64-Bit Brawn:** This code can handle massive datasets, essential for capturing the immense scale of supernovae.
+- **HDF5: Friend of Visualization Tools:** Need to see the results? No problem! This code uses HDF5, allowing you to plug the data into popular visualization tools like Matlab or IDL and create stunning animations.
+- **MPI: Teamwork Makes the Dream Work:** Simulations this complex require a lot of processing power. MPI allows the code to run across multiple processors, speeding things up significantly.
+- **Second-Order Godunov Scheme:** This fancy name translates to a super accurate way of modeling the flow of matter and energy within the exploding star.
+- **Choice of Riemann Solvers:** Different situations call for different tools. This code offers a toolbox of Riemann solvers (Roe, HLLD, Lax-Friedrichs) to tackle various scenarios.
 
 **Ready to Dive Deep?**
 
-The code is now available! .  Let's explore the universe together, one simulated supernova at a time.
+The code is now available! . Let's explore the universe together, one simulated supernova at a time.
 ![jets](/images/jets.png "Jets")
 
-
 [mpi-mhd-fv](https://github.com/garethcmurphy/mpi-mhd-fv)
-
-
-

@@ -2,7 +2,7 @@
 layout: post
 title: "Making neutron data accessible to scientists"
 date: 2017-10-10 22:20:58 +0100
-categories: jekyll update
+categories: jekyll 📓, update 🔄
 ---
 
 Supercharge Your ESS Neutron Data with CatanieDataLoad! Calling all neutron researchers using the ESS! Have a treasure trove of new data just waiting to be unleashed on the world? We've got the key to unlock its potential: the **CatanieDataLoad**神器 (shén qì) - that's "divine instrument" in Chinese, for those not fluent in awesomeness!

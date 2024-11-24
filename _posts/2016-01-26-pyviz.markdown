@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Visualizing the Unseen: Unlocking the Power of Simulation Data"
-date:   2016-01-26 14:20:58 +0100
+date:   2016-07-26 14:20:58 +0100
 categories: python update
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unveiling the Galactic Dust Veil: A C++ Exploration"
-date:   2016-01-29 14:20:58 +0100
+date:   2016-11-29 14:20:58 +0100
 categories: galactic plane mapping
 ---
 Have you ever wondered about the mysterious dust that obscures our view of the cosmos? In this project, I delved into the heart of the Milky Way to map the distribution of interstellar dust, a crucial component of our galaxy. 

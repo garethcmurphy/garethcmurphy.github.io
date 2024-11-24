@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chasing Supernovae: Simulating Explosions in Code"
-date:   2007-01-28 14:20:58 +0100
+date:   2007-08-28 14:20:58 +0100
 categories: jekyll update
 ---
 

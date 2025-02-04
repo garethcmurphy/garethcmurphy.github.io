@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a team leader in Research Data Orchestration, Novo Nordisk, Denmark. I am passionate about leading teams and driving innovation. My expertise lies in strategic planning, team building, and problem-solving.
+I am a data steward in Research Data Orchestration, Novo Nordisk, Denmark. I am passionate about leading teams and driving innovation. My expertise lies in strategic planning, team building, and problem-solving.
 
 With years of experience, I have successfully led teams to achieve their goals and deliver exceptional results. I am skilled in project management, budget management, and performance management.
 

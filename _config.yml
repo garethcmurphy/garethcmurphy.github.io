@@ -9,11 +9,12 @@
 title: Gareth Murphy
 email: gtmh@novonordisk.com
 description: > # this means to ignore newlines until "baseurl:"
-    I am a manager in Research Data Orchestration, Novo Nordisk.
+    Research Data Orchestration manager at Novo Nordisk — driving FAIR data, open science, and high-performance computing.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://garethcmurphy.github.io" # the base hostname & protocol for your site
 twitter_username: garethcmurphy
 github_username:  garethcmurphy
+linkedin_username: garethcmurphy
 
 # Build settings
 markdown: kramdown

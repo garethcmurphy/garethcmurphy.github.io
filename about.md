@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a **Research Data Orchestration Manager** at [Novo Nordisk](https://www.novonordisk.com), Denmark, where I lead teams focused on making life science data **Findable, Accessible, Interoperable, and Reusable** (FAIR).
+I am a **Principal Data Steward** at [Novo Nordisk](https://www.novonordisk.com), Denmark, where I lead teams focused on making life science data **Findable, Accessible, Interoperable, and Reusable** (FAIR).
 
 ## What I Do
 

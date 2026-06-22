@@ -1,5 +1,4 @@
 ---
-layout: post  
 title:  "Powering the Future of Science: Unleashing the Power of Neutrons"  
 date:   2019-04-04 22:20:58 +0100  
 categories: science, technology, data-infrastructure  

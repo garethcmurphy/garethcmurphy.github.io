@@ -1,0 +1,45 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { formatPostDate, getPosts } from '../utils/posts';
+
+const posts = getPosts();
+---
+
+<BaseLayout>
+  <div class="hero">
+    <div class="hero-content">
+      <h1 class="hero-title">Gareth Murphy</h1>
+      <p class="hero-subtitle">Principal Data Steward · Novo Nordisk</p>
+      <p class="hero-description">
+        Driving FAIR data practices, open science, and high-performance computing to accelerate life
+        science research.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="/about/">About Me</a>
+        <a class="btn btn-secondary" href="/projects/">Projects</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="home">
+    <h2 class="section-heading">Latest Posts</h2>
+
+    <ul class="post-list">
+      {
+        posts.map((post) => (
+          <li class="post-card">
+            <div class="post-card-meta">
+              <time class="post-meta" datetime={post.date.toISOString()}>{formatPostDate(post.date)}</time>
+            </div>
+            <h3><a class="post-link" href={post.url}>{post.title}</a></h3>
+            <p class="post-excerpt">{post.excerpt}</p>
+          </li>
+        ))
+      }
+    </ul>
+
+    <p class="rss-subscribe">
+      Subscribe <a href="/feed.xml">via RSS</a>
+    </p>
+  </div>
+</BaseLayout>

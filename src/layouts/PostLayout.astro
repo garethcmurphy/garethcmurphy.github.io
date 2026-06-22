@@ -1,0 +1,27 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import { formatPostDate } from '../utils/posts';
+
+interface Props {
+  title: string;
+  description?: string;
+  date: Date;
+}
+
+const { title, description, date } = Astro.props;
+---
+
+<BaseLayout title={title} description={description} ogType="article">
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">{title}</h1>
+      <p class="post-meta">
+        <time datetime={date.toISOString()} itemprop="datePublished">{formatPostDate(date)}</time>
+      </p>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>

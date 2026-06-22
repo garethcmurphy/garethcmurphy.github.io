@@ -1,0 +1,109 @@
+---
+import '../../css/main.scss';
+import { site } from '../data/site';
+
+interface Props {
+  title?: string;
+  description?: string;
+  ogType?: 'website' | 'article';
+}
+
+const { title, description, ogType = 'website' } = Astro.props;
+const pageTitle = title ? `${title} — ${site.title}` : site.title;
+const pageDescription = description ?? site.description;
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site ?? site.url);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>{pageTitle}</title>
+    <meta name="description" content={pageDescription} />
+
+    <meta property="og:title" content={title ?? site.title} />
+    <meta property="og:description" content={pageDescription} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={canonicalUrl.href} />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="canonical" href={canonicalUrl.href} />
+    <link rel="alternate" type="application/rss+xml" title={site.title} href={`${site.url}/feed.xml`} />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  </head>
+
+  <body>
+    <header class="site-header">
+      <div class="wrapper">
+        <a class="site-title" href="/">{site.title}</a>
+
+        <nav class="site-nav">
+          <div class="trigger">
+            {site.navigation.map((item) => (
+              <a class="page-link" href={item.href}>{item.label}</a>
+            ))}
+            <a
+              class="page-link"
+              href={`https://www.linkedin.com/in/${site.linkedinUsername}`}
+              target="_blank"
+              rel="noopener"
+            >
+              LinkedIn
+            </a>
+            <a
+              class="page-link"
+              href={`https://github.com/${site.githubUsername}`}
+              target="_blank"
+              rel="noopener"
+            >
+              GitHub
+            </a>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <div class="page-content">
+      <div class="wrapper">
+        <slot />
+      </div>
+    </div>
+
+    <footer class="site-footer">
+      <div class="wrapper">
+        <h2 class="footer-heading">{site.title}</h2>
+
+        <div class="footer-col-wrapper">
+          <div class="footer-col footer-col-1">
+            <ul class="contact-list">
+              <li>{site.title}</li>
+              <li><a href={`mailto:${site.email}`}>{site.email}</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-col footer-col-2">
+            <ul class="social-media-list">
+              <li><a href={`https://github.com/${site.githubUsername}`}>GitHub</a></li>
+              <li><a href={`https://twitter.com/${site.twitterUsername}`}>Twitter</a></li>
+              <li><a href={`https://www.linkedin.com/in/${site.linkedinUsername}`}>LinkedIn</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-col footer-col-3">
+            <p>{site.description}</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

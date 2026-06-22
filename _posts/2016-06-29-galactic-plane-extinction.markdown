@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Unveiling the Galactic Dust Veil: A C++ Exploration"
 date: 2016-11-29 14:20:58 +0100
 categories: galactic plane, interstellar dust, C++ programming, data visualization

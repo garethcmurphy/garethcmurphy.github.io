@@ -2,7 +2,7 @@ export const site = {
   title: 'Gareth Murphy',
   email: 'gtmh@novonordisk.com',
   description:
-    'Research Data Orchestration manager at Novo Nordisk — driving FAIR data, open science, and high-performance computing.',
+    'Principal Data Steward at Novo Nordisk — driving FAIR data, open science, and high-performance computing.',
   url: 'https://garethcmurphy.github.io',
   twitterUsername: 'garethcmurphy',
   githubUsername: 'garethcmurphy',

@@ -44,7 +44,7 @@ npm run preview
 
 ## Deployment
 
-GitHub Pages is configured to deploy with **GitHub Actions** using `.github/workflows/deploy.yml`.
+GitHub Pages is configured to deploy with **GitHub Actions** using `.github/workflows/deploy.yaml`.
 
 ### GitHub setup
 

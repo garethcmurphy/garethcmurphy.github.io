@@ -1,29 +1,65 @@
-# Github webpage
+# Gareth Murphy website
 
-Gareth Murphy webpage
+Source for <https://garethcmurphy.github.io>, built with [Astro](https://astro.build) and deployed to GitHub Pages.
 
-[site](https://garethcmurphy.github.io)
-[repo](https://github.com/garethcmurphy/garethcmurphy.github.io)
+- **Live site:** <https://garethcmurphy.github.io>
+- **Repository:** <https://github.com/garethcmurphy/garethcmurphy.github.io>
 
-## Tools used
+## Overview
 
-This website is built using [Astro](https://astro.build), a static site generator, and hosted on GitHub Pages. Astro renders the Markdown content and site templates into static HTML that is published from the generated `_site/` directory.
+This repository has **moved off Jekyll** and now uses Astro for local development, static builds, and GitHub Pages deployment.
+
+- Site pages and layouts live in `src/`
+- Blog posts live in `_posts/`
+- Shared styles live in `css/` and `_sass/`
+- Generated output is written to `_site/`
 
 ## Local development
 
-Install dependencies with `npm install`, then use:
+Install dependencies:
 
-- `npm run dev` for a local preview server
-- `npm run build` for a production build into `_site/`
+```bash
+npm install
+```
 
-## Contributing
+Start the development server:
 
-If you'd like to contribute to this website, feel free to fork the repository and submit a pull request.
+```bash
+npm run dev
+```
 
-## Contact
+Astro usually serves the site at <http://localhost:4321>.
 
-Feel free to reach out to me on LinkedIn or via email
+Build the production site:
 
-## Let's Connect
+```bash
+npm run build
+```
 
-I'm always open to new opportunities and collaborations. Let's connect and build something amazing together!
+Preview the built site locally:
+
+```bash
+npm run preview
+```
+
+## Deployment
+
+GitHub Pages is configured to deploy with **GitHub Actions** using `.github/workflows/deploy.yml`.
+
+### GitHub setup
+
+In **Settings → Pages**, set the source to **GitHub Actions**.
+
+### How publishing works
+
+1. Push changes to `main`, or run the workflow manually from the **Actions** tab.
+2. GitHub Actions installs dependencies with `npm ci`.
+3. The workflow runs `npm run build`.
+4. The generated `_site/` directory is published to GitHub Pages.
+
+If Pages is set to **Deploy from a branch**, GitHub will use the legacy branch-based flow instead of the Astro workflow.
+
+## Notes
+
+- `astro.config.mjs` sets the production site URL and the `_site/` output directory.
+- Do not edit `_site/` by hand unless you intentionally want to change generated output.
